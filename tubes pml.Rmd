@@ -1,0 +1,6 @@
+---
+title: "tubes pml"
+author: "Zafyra Nur Rizqi"
+date: "2025-06-03"
+output: pdf_document
+---
